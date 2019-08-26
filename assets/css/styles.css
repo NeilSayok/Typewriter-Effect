@@ -1,0 +1,16 @@
+h1 {
+  text-align: center;
+  word-break: break-word;
+  word-wrap: break-word;
+}
+
+div {
+  border-bottom: 4px solid #000000;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
